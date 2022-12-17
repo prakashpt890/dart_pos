@@ -10,6 +10,7 @@ environment:
 dependencies:
   dart_des: ^1.0.0
   convert: ^3.0.1
+  pos: any
 
 dev_dependencies:
   test: ^1.17.11
